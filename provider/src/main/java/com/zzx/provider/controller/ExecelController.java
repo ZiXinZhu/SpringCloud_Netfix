@@ -1,10 +1,11 @@
 package com.zzx.provider.controller;
 
 
-import com.zzx.provider.common.CommonResult;
-import com.zzx.provider.common.ParamterHandler;
-import com.zzx.provider.common.ProcessHandler;
-import com.zzx.provider.utils.ExecelUtil;
+
+import com.zzx.commons.templates.CommonResult;
+import com.zzx.commons.templates.ParamterHandler;
+import com.zzx.commons.templates.ProcessHandler;
+import com.zzx.commons.utils.ExecelUtil;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;

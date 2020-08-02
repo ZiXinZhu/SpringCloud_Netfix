@@ -63,6 +63,7 @@
             <artifactId>poi</artifactId>
             <version>3.17</version>
         </dependency>
+
         <!--guava cache-->
         <dependency>
             <groupId>com.google.guava</groupId>
@@ -76,14 +77,22 @@
             <artifactId>spring-tx</artifactId>
             <version>5.0.9.RELEASE</version>
         </dependency>
+
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
             <version>24.1-jre</version>
         </dependency>
+
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.zzx</groupId>
+            <artifactId>commons</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
 
     </dependencies>

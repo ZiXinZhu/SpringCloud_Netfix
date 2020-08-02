@@ -3,7 +3,7 @@ package com.zzx.consumer.server;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import com.zzx.commons.entity.dto.OrderDTO;
-import com.zzx.commons.utils.CommonResult;
+import com.zzx.commons.templates.CommonResult;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 

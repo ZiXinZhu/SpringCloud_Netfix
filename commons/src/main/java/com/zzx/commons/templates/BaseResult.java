@@ -1,4 +1,4 @@
-package com.zzx.provider.common;
+package com.zzx.commons.templates;
 
 public class BaseResult {
     /**

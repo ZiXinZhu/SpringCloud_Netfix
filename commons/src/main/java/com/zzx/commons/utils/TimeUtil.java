@@ -1,6 +1,7 @@
-package com.zzx.provider.utils;
+package com.zzx.commons.utils;
 
-import com.zzx.provider.exceptions.CommonException;
+
+import com.zzx.commons.exceptions.CommonException;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

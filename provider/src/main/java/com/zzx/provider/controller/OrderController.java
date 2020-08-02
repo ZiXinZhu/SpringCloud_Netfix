@@ -1,9 +1,9 @@
 package com.zzx.provider.controller;
 
-import com.zzx.provider.common.ParamterHandler;
 import com.zzx.provider.service.share.OrderService;
-import com.zzx.provider.common.CommonResult;
-import com.zzx.provider.common.ProcessHandler;
+import com.zzx.commons.templates.CommonResult;
+import com.zzx.commons.templates.ParamterHandler;
+import com.zzx.commons.templates.ProcessHandler;
 import com.zzx.provider.entity.dto.OrderDTO;
 import com.zzx.provider.enums.ContainEnum;
 import org.springframework.beans.factory.annotation.Autowired;

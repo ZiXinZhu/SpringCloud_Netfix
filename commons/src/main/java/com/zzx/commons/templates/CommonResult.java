@@ -1,4 +1,4 @@
-package com.zzx.commons.utils;
+package com.zzx.commons.templates;
 
 public class CommonResult<T> extends BaseResult {
     /**
