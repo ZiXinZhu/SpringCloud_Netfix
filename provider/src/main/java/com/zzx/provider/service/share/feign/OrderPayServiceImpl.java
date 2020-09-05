@@ -10,6 +10,7 @@ public class OrderPayServiceImpl implements OrderPayServcie {
     public CommonResult<String> ordersList(String param) {
         CommonResult<String> result = new CommonResult<>();
         result.setResult("Provider:"+param);
+        result.setSuccess(true);
         return result;
     }
 }

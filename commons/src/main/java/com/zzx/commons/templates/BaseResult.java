@@ -4,7 +4,7 @@ public class BaseResult {
     /**
      * �Ƿ�ɹ�
      */
-    private boolean success;
+    private boolean success = false;
     /**
      * ���ش���
      */
